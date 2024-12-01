@@ -80,6 +80,5 @@ def main():
                 analyzer.export_to_html(results)
 
 
-
 if __name__ == "__main__":
     main()
